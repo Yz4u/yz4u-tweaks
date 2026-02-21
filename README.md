@@ -1,10 +1,9 @@
 # yz4u-tweaks
 
-Sileo/APT repository staging for Yz4u tweaks.
+Sileo/APT repository staging for the Yz4u JB Comfort Project.
 
 ## Current Package
-- `debs/com.openclaw.lockalive_1.0.0_iphoneos-arm64.deb`
-- Note: package identifier currently uses legacy namespace `com.openclaw.*`.
+- `debs/com.yz4u.lockalive_1.0.0_iphoneos-arm64.deb`
 
 ## Regenerate Repo Indexes
 Run after adding/updating `.deb` files:

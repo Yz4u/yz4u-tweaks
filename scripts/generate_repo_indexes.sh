@@ -90,7 +90,7 @@ LABEL="${LABEL:-Yz4u Tweaks}"
 SUITE="${SUITE:-stable}"
 CODENAME="${CODENAME:-ios}"
 COMPONENTS="${COMPONENTS:-main}"
-DESCRIPTION="${DESCRIPTION:-Yz4u jailbreak tweaks repository}"
+DESCRIPTION="${DESCRIPTION:-Yz4u JB Comfort Project repository}"
 NOW_UTC="$(LC_ALL=C date -u '+%a, %d %b %Y %H:%M:%S +0000')"
 
 pkg_size="$(stat -f%z "$PACKAGES_FILE")"
