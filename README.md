@@ -2,6 +2,11 @@
 
 Sileo/APT repository staging for the Yz4u JB Comfort Project.
 
+## Tweak Description (EN / JA)
+`LockAlive` is a rootless ElleKit tweak that helps keep SSH/Wi-Fi reachable while the device is locked.
+
+`LockAlive` は、画面ロック中でも SSH/Wi-Fi の到達性を保ちやすくする rootless ElleKit 向け tweak です。
+
 ## Current Package
 - `debs/com.yz4u.lockalive_1.0.0_iphoneos-arm64.deb`
 
