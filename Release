@@ -1,0 +1,18 @@
+Origin: Yz4u
+Label: Yz4u Tweaks
+Suite: stable
+Version: 1.0
+Codename: ios
+Date: Sat, 21 Feb 2026 07:06:52 +0000
+Architectures: iphoneos-arm64
+Components: main
+Description: Yz4u jailbreak tweaks repository
+MD5Sum:
+ 8c70c473125d863166d54a6a0a2802f9 453 Packages
+ 229fbcf17809d84395aeda4bb654f2ea 337 Packages.gz
+SHA1:
+ 5b9233739525bf588404a6e737291e5cc2cb7c3e 453 Packages
+ f41f98289549dee4bcc43f292976abc30b7eee01 337 Packages.gz
+SHA256:
+ 797014fd451fb2d92172c521c6008b023e0e875974accfb5a8a721237e9f3707 453 Packages
+ 504229c48ad9542aa201535b42506cf0fbd86737fba4f3a03fa4cb4aa61a97e1 337 Packages.gz

@@ -1,0 +1,14 @@
+Package: com.openclaw.lockalive
+Name: LockAlive
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: OpenClaw Lab
+Section: Tweaks
+Depends: firmware (>= 15.0), ellekit
+Description: Keep SSH/Wi-Fi alive while locked
+Filename: debs/com.openclaw.lockalive_1.0.0_iphoneos-arm64.deb
+Size: 8384
+MD5sum: 72fdc8092973959d690f473908b4e73e
+SHA1: 4dec214e6156047500020e574a75d7093a580616
+SHA256: 534d992f5f867da10a0d699b85168c74d3695ce0afb1d39995a3048ce84c8a7c
+
