@@ -9,7 +9,8 @@ Sileo/APT repository staging for the Yz4u JB Comfort Project.
 Run after adding/updating `.deb` files:
 
 ```bash
-/Users/admin/Desktop/Tweak/yz4u-tweaks/scripts/generate_repo_indexes.sh
+cd yz4u-tweaks
+./scripts/generate_repo_indexes.sh
 ```
 
 This regenerates:
